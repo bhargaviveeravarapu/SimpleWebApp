@@ -96,10 +96,12 @@ h1{
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
+		<li><a href="#discounts">Contact</a></li>
+
             </ul>
 		
         </header>
-         <h1>Flipkart Mobile offers will be ended on 27th june 2023 , Flipkart laptop  offers will be ended on 27th june 2023 </h1>   
+         <h1>Flipkart Mobile offers will be ended on 27th june 2023 </h1>   
 	  </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
@@ -107,4 +109,4 @@ h1{
     <section id="contact"><h1>This Is Contact</h1></section>
 
 </body>
-</html>
+c</html>
