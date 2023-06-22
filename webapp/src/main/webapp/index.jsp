@@ -100,9 +100,8 @@ h1{
 		
         </header>
          <h1>Flipkart Mobile offers will be ended on 27th june 2023 </h1>   
-	 
-
-    </section>    
+	 <h1>Flipkart laptop  offers will be ended on 27th june 2023 </h1>   
+	  </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
